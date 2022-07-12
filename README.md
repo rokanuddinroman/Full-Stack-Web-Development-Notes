@@ -16,8 +16,4 @@
 
 [7. NextJS](https://www.google.com)
 
-[8. ](https://www.google.com)
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link](https://www.google.com)
+## Interview Preparation 
